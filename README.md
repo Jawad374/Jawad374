@@ -90,7 +90,7 @@ I love automating workflows and integrating APIs to make applications smarter.
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&count_private=true&theme=radical&hide_title=false" />
+    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false" />
   </a>
   <a href="https://streak-stats.demolab.com">
     <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=Jawad374&theme=radical" />
@@ -106,6 +106,13 @@ I love automating workflows and integrating APIs to make applications smarter.
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Jawad374&theme=onedark&row=1&column=6" />
+  </a>
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad374&theme=github-compact&hide_border=true&area=true" />
   </a>
 </p>
 
