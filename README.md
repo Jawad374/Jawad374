@@ -91,10 +91,10 @@ I love automating workflows and integrating APIs to make applications smarter.
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Muhammad Jawad Anjum's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&count_private=true&theme=algolia&hide_title=true" height="200" />
+        <img alt="Muhammad Jawad Anjum's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&count_private=true&theme=radical&hide_title=false" height="200" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Muhammad Jawad Anjum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad374&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="200"/>
+        <img alt="Muhammad Jawad Anjum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad374&langs_count=8&show_icons=true&locale=en&layout=compact&theme=radical" height="200"/>
     </a>
 </p>
 
