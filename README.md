@@ -40,7 +40,7 @@
     </td>
     <td width="35%" align="center">
       <img 
-        src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif" 
+        src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" 
         width="100%" 
         style="border-radius: 10px;"
         alt="Coding Animation" 
