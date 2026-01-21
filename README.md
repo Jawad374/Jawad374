@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/85b0f1c9-5969-4be8-bbc4-9f3986b9179b" /><div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
   <h1>Hi, I'm Muhammad Jawad Anjum</h1>
@@ -49,7 +49,7 @@
 
 | Project Name | Type | Live Link |
 | :--- | :---: | :---: |
-| **Fair and Squaire** | 🛒 E-Commerce | <a href="https://fairandsquaire.vercel.app/"><img src="https://img.shields.io/badge/View_App-3498DB?style=flat&logo=vercel&logoColor=white" /></a> |
+| **Fair and Squaire** |🏠 Property | <a href="https://fairandsquaire.vercel.app/"><img src="https://img.shields.io/badge/View_App-3498DB?style=flat&logo=vercel&logoColor=white" /></a> |
 | **Blogify Tech** | 📝 Tech Blog | <a href="https://blogify-tech.vercel.app/"><img src="https://img.shields.io/badge/View_App-3498DB?style=flat&logo=vercel&logoColor=white" /></a> |
 | **Cathy Rose** | 🏢 Main Service | <a href="https://www.cathyrose.com.sa/"><img src="https://img.shields.io/badge/Visit_Site-27AE60?style=flat&logo=google-chrome&logoColor=white" /></a> |
 | **Cathy Rose Cafe** | ☕ Hospitality | <a href="https://www.cathyrose.com.sa/cafe"><img src="https://img.shields.io/badge/Visit_Cafe-D35400?style=flat&logo=google-chrome&logoColor=white" /></a> |
