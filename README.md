@@ -1,41 +1,47 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" />
   <h1>Hi, I'm Muhammad Jawad Anjum</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+%26+Automation;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="center">
-  <br/>
-  BSCS Graduate | Air University, Islamabad
-  <br/>
-  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Architecting+Scalable+Solutions;Next.js+%26+Automation+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <h3>BSCS Graduate | Air University, Islamabad</h3>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<div align="center">
-  <p>
-    I am a passionate <strong>Full Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>Next.js</strong>. 
-    I have a keen interest in data manipulation, automation, and building efficient, scalable applications.
-  </p>
-  <p>
-    I love automating workflows, integrating APIs, and exploring cutting-edge technologies to create innovative solutions for both developers and end-users.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <p>
+        I am a passionate <strong>Full Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>Next.js</strong>. I don't just write code; I build efficient, scalable digital solutions geared towards performance and user experience.
+      </p>
+      <p>
+        With a keen interest in <strong>data manipulation</strong> and <strong>automation</strong>, I love integrating complex APIs and exploring cutting-edge technologies to optimize workflows for both developers and end-users.
+      </p>
+      <p>
+         💡 <em>"I believe in writing clean, maintainable code that stands the test of time."</em>
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98fb-4076-9867-51d0f7369343.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-| **Frontend** | **Backend & DB** | **DevOps & Tools** |
+| **Frontend Engine** | **Backend Core & Database** | **DevOps & Ecosystem** |
 | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><br/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><br/><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br/><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"><br/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><br/><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br/><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"><br/><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><br/><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> |
 
@@ -43,42 +49,49 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects Dashboard
 
 <div align="center">
 
-| Project Name | Type | Live Link |
+| Project Name | Category | Status & Link |
 | :--- | :---: | :---: |
-| **Fair and Squaire** |🏠 Property | <a href="https://fairandsquaire.vercel.app/"><img src="https://img.shields.io/badge/View_App-3498DB?style=flat&logo=vercel&logoColor=white" /></a> |
-| **Blogify Tech** | 📝 Tech Blog | <a href="https://blogify-tech.vercel.app/"><img src="https://img.shields.io/badge/View_App-3498DB?style=flat&logo=vercel&logoColor=white" /></a> |
-| **Cathy Rose** | 🏢 Main Service | <a href="https://www.cathyrose.com.sa/"><img src="https://img.shields.io/badge/Visit_Site-27AE60?style=flat&logo=google-chrome&logoColor=white" /></a> |
-| **Cathy Rose Cafe** | ☕ Hospitality | <a href="https://www.cathyrose.com.sa/cafe"><img src="https://img.shields.io/badge/Visit_Cafe-D35400?style=flat&logo=google-chrome&logoColor=white" /></a> |
-| **Cathy Rose Workshop** | 🚗 Automotive | <a href="https://www.cathyrose.com.sa/carworkshop"><img src="https://img.shields.io/badge/Visit_Workshop-7F8C8D?style=flat&logo=google-chrome&logoColor=white" /></a> |
-| **StorySphere .NET** | 📄 Application | <a href="https://drive.google.com/file/d/1ifVNinr9yN1t_c3I84dv3QzCjfE4zaWq/view"><img src="https://img.shields.io/badge/View_File-EA4335?style=flat&logo=google-drive&logoColor=white" /></a> |
+| **Fair and Squaire** | 🏠 PropTech / E-Comm | <a href="https://fairandsquaire.vercel.app/"><img src="https://img.shields.io/badge/🚀_DEPLOYED-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/></a> |
+| **Blogify Tech** | 📝 Content Platform | <a href="https://blogify-tech.vercel.app/"><img src="https://img.shields.io/badge/🚀_DEPLOYED-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/></a> |
+| **Cathy Rose** | 🏢 Corporate Site | <a href="https://www.cathyrose.com.sa/"><img src="https://img.shields.io/badge/🌐_LIVE-Website-27AE60?style=flat&logo=google-chrome&logoColor=white" alt="Live Site"/></a> |
+| **Cathy Rose Cafe** | ☕ Hospitality Service | <a href="https://www.cathyrose.com.sa/cafe"><img src="https://img.shields.io/badge/☕_VISIT-Cafe_Page-D35400?style=flat&logo=google-chrome&logoColor=white" alt="Live Site"/></a> |
+| **Cathy Rose Workshop** | 🚗 Automotive Service | <a href="https://www.cathyrose.com.sa/carworkshop"><img src="https://img.shields.io/badge/🚗_VISIT-Workshop-7F8C8D?style=flat&logo=google-chrome&logoColor=white" alt="Live Site"/></a> |
+| **StorySphere .NET** | 📄 .NET Application | <a href="https://drive.google.com/file/d/1ifVNinr9yN1t_c3I84dv3QzCjfE4zaWq/view"><img src="https://img.shields.io/badge/📄_VIEW-Documentation-EA4335?style=flat&logo=google-drive&logoColor=white" alt="View Docs"/></a> |
 
 </div>
 
 ---
 
-### 🌍 Current Focus
+### 🌍 Current Focus & Learning Path
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Microservices-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Next.js_Scaling-black?style=flat-square">
-  <img src="https://img.shields.io/badge/Exploring-Python_Automation-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/🧠_Learning-Microservices_Architecture-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀_Focusing_On-Next.js_Scaling_%26_Performance-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🤖_Exploring-Python_Automation_(Selenium)-yellow?style=for-the-badge">
 </div>
 
+<br/>
+<hr/>
 <br/>
 
 ### 📱 Let's Connect
 
-<p align="center">
-    <a href="https://github.com/Jawad374">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<div align="center">
+    <a href="https://github.com/Jawad374" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/muhammadjawadanjum">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/muhammadjawadanjum" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:jawadanjum438@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-</p>
+</div>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284127-56052d5e-4462-47a1-8c15-54312aae7890.gif" width="100%">
+</div>
