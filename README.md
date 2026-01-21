@@ -95,8 +95,9 @@ Here are some of the applications and websites I've built:
 | :--- | :--- |
 | **Fair and Squaire** | [Live Demo](https://fairandsquaire.vercel.app/) |
 | **Blogify Tech** | [Live Demo](https://blogify-tech.vercel.app/) |
-| **Cathy Rose** | [Live Demo](https://www.cathyrose.com.sa/) |
+| **Cathy Rose Service** | [Live Demo](https://www.cathyrose.com.sa/) |
 | **Cathy Rose Cafe** | [Live Demo](https://www.cathyrose.com.sa/cafe) |
+| **Cathy Rose Carworkshop** | [Live Demo](https://www.cathyrose.com.sa/carworkshop) |
 | **StorySphere .NET** | [View File](https://drive.google.com/file/d/1ifVNinr9yN1t_c3I84dv3QzCjfE4zaWq/view) |
 
 ## 🌍 Current Focus
