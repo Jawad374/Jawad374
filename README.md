@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/85b0f1c9-5969-4be8-bbc4-9f3986b9179b" /><div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
   <h1>Hi, I'm Muhammad Jawad Anjum</h1>
