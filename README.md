@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" />
-  <h1>Hi, I'm Muhammad Jawad Anjum</h1>
+  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" /> , I'm Muhammad Jawad Anjum</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Architecting+Scalable+Solutions;Next.js+%26+Automation+Enthusiast" alt="Typing SVG" />
   </a>
 
   <h3>BSCS Graduate | Air University, Islamabad</h3>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ---
@@ -17,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <br/>
       <p>
         I am a passionate <strong>Full Stack Web Developer</strong> specializing in the <strong>MERN stack</strong> and <strong>Next.js</strong>. I don't just write code; I build efficient, scalable digital solutions geared towards performance and user experience.
@@ -28,9 +25,21 @@
       <p>
          💡 <em>"I believe in writing clean, maintainable code that stands the test of time."</em>
       </p>
+      <br/>
+      <div>
+        <a href="https://github.com/Jawad374" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/muhammadjawadanjum" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="mailto:jawadanjum438@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+      </div>
     </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-98fb-4076-9867-51d0f7369343.gif" width="100%">
+    <td width="35%" align="center">
+      <img src="me.png" width="90%" alt="Muhammad Jawad Anjum" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -72,26 +81,4 @@
   <img src="https://img.shields.io/badge/🧠_Learning-Microservices_Architecture-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/🚀_Focusing_On-Next.js_Scaling_%26_Performance-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/🤖_Exploring-Python_Automation_(Selenium)-yellow?style=for-the-badge">
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-### 📱 Let's Connect
-
-<div align="center">
-    <a href="https://github.com/Jawad374" target="_blank">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/muhammadjawadanjum" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:jawadanjum438@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284127-56052d5e-4462-47a1-8c15-54312aae7890.gif" width="100%">
 </div>
