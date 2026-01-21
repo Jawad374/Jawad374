@@ -87,34 +87,17 @@ I love automating workflows and integrating APIs to make applications smarter.
     </a>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false" />
-  </a>
-  <a href="https://streak-stats.demolab.com">
-    <img alt="GitHub Streak" height="165" src="https://streak-stats.demolab.com?user=Jawad374&theme=radical" />
-  </a>
-</p>
+## 📂 Projects
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad374&langs_count=8&layout=compact&theme=radical" />
-  </a>
-</p>
+Here are some of the applications and websites I've built:
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Jawad374&theme=onedark&row=1&column=6" />
-  </a>
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad374&theme=github-compact&hide_border=true&area=true" />
-  </a>
-</p>
+| Project | Link |
+| :--- | :--- |
+| **Fair and Squaire** | [Live Demo](https://fairandsquaire.vercel.app/) |
+| **Blogify Tech** | [Live Demo](https://blogify-tech.vercel.app/) |
+| **Cathy Rose** | [Live Demo](https://www.cathyrose.com.sa/) |
+| **Cathy Rose Cafe** | [Live Demo](https://www.cathyrose.com.sa/cafe) |
+| **StorySphere .NET** | [View File](https://drive.google.com/file/d/1ifVNinr9yN1t_c3I84dv3QzCjfE4zaWq/view) |
 
 ## 🌍 Current Focus
 - 💻 Working on scaling solutions with **Next.js** and **Vercel**.
@@ -138,5 +121,4 @@ Feel free to reach out on:
 </p>
 
 
-<!-- links -->
 [linkedin]: https://www.linkedin.com/in/muhammadjawadanjum "Muhammad Jawad Anjum LinkedIn"
