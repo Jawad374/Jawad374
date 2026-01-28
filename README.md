@@ -75,6 +75,7 @@
 | **Cathy Rose Cafe** | ☕ Hospitality Service | <a href="https://www.cathyrose.com.sa/cafe"><img src="https://img.shields.io/badge/☕_VISIT-Cafe_Page-D35400?style=flat&logo=google-chrome&logoColor=white" alt="Live Site"/></a> |
 | **Cathy Rose Workshop** | 🚗 Automotive Service | <a href="https://www.cathyrose.com.sa/carworkshop"><img src="https://img.shields.io/badge/🚗_VISIT-Workshop-7F8C8D?style=flat&logo=google-chrome&logoColor=white" alt="Live Site"/></a> |
 | **StorySphere .NET** | 📄 .NET Application | <a href="https://drive.google.com/file/d/1ifVNinr9yN1t_c3I84dv3QzCjfE4zaWq/view"><img src="https://img.shields.io/badge/📄_VIEW-Documentation-EA4335?style=flat&logo=google-drive&logoColor=white" alt="View Docs"/></a> |
+| **E-Commerce Fullstack Website** | 🛒🛍️ Next.js | <img src="https://img.shields.io/badge/🛠️_DEVELOPMENT-In_Progress-orange?style=flat" alt="In Progress"/> <br/> <a href="https://ecommerce-fullstack-design-chi.vercel.app/">🔗 View Demo</a>  |
 
 </div>
 
