@@ -117,22 +117,6 @@ I'm a **BSCS Graduate from Air University, Islamabad**, and a passionate **Full 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jawad374&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CDD6F4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad374&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD6F4"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad374&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jawad374&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FB923C" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -149,15 +133,7 @@ I'm a **BSCS Graduate from Air University, Islamabad**, and a passionate **Full 
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Jawad374&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
 
 ## 💬 Random Dev Quote
 
